@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Swift
-- 📫 How to reach me: https://www.linkedin.com/in/felipe-correia-a16233116/
+- 📫 How to reach me: https://www.linkedin.com/in/felipe-augusto-a16233116/
 - 🏡 From São Paulo - SP
 
 Olá 👋
