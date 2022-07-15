@@ -6,7 +6,7 @@
 
 Olá 👋
 
-- Formado em Análise e Desenvolvimento de Sistemas e atualmente estudando com o intuito de me tornar um Desenvolvedor Flutter. 👊
+- Formado em Análise e Desenvolvimento de Sistemas e atualmente estudando com o intuito de me tornar um Desenvolvedor IOS. 👊
 
 <!--
 **Augusto-Felipe/Augusto-Felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
