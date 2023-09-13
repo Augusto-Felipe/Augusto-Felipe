@@ -16,7 +16,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-felipe&layout=compact&langs_count=7&theme=clear"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Swift" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">         
+  <img align="center" alt="Felipe-Swift" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+  <img align="center" alt="Felipe-Swift" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Felipe-Swift" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />    
 </div>
   
   ##
