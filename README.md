@@ -1,12 +1,12 @@
 <h2 align="center"> Hi there 👋 </h2>
 
-- 🌱 iOS Developer | C# | .NET | Ruby
+- 🌱 iOS Developer | C# | .NET 
 - 📫 How to reach me: https://www.linkedin.com/in/felipe-augusto-a16233116/
 - 🏡 From São Paulo - SP
 
 <h2 align="center">Olá 👋</h2>
 
-- iOS Developer | C# | .NET | Ruby
+- iOS Developer | C# | .NET 
 - 📫 Linkedln: https://www.linkedin.com/in/felipe-augusto-a16233116/
 - 🏡 De São Paulo - SP
 
