@@ -1,12 +1,12 @@
 <h2 align="center"> Hi there 👋 </h2>
 
-- 🌱 iOS Developer | C# | .NET 
+- 🌱 iOS Developer | Kotlin | Java | C# | .NET 
 - 📫 How to reach me: https://www.linkedin.com/in/felipe-augusto-a16233116/
 - 🏡 From São Paulo - SP
 
 <h2 align="center">Olá 👋</h2>
 
-- iOS Developer | C# | .NET 
+- iOS Developer | Kotlin | Java | C# | .NET 
 - 📫 Linkedln: https://www.linkedin.com/in/felipe-augusto-a16233116/
 - 🏡 De São Paulo - SP
 
@@ -17,7 +17,9 @@
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Felipe-Swift" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  <img align="center" alt="Felipe-Swift" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />   
+  <img align="center" alt="Felipe-Swift" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Felipe-Swift" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="Felipe-Swift" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
   
   ##
